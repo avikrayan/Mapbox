@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/avik/Development/Mapbox/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/avik/.android/build-cache/7ede72b925b6f7357c26bc13e9faa6cc39179340/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/avik/Development/Mapbox/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/mapbox_info_icon_default.xml",
+        "source": "/home/avik/.android/build-cache/f75706e84336c9b1ccec372a5fee7f4735819e3a/output/res/drawable-anydpi-v21/mapbox_info_icon_default.xml"
+    },
+    {
+        "merged": "/home/avik/Development/Mapbox/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_place_icon.xml",
+        "source": "/home/avik/Development/Mapbox/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_place_icon.xml"
+    },
+    {
+        "merged": "/home/avik/Development/Mapbox/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/mapbox_info_icon_selected.xml",
+        "source": "/home/avik/.android/build-cache/f75706e84336c9b1ccec372a5fee7f4735819e3a/output/res/drawable-anydpi-v21/mapbox_info_icon_selected.xml"
+    },
+    {
+        "merged": "/home/avik/Development/Mapbox/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/avik/.android/build-cache/7ede72b925b6f7357c26bc13e9faa6cc39179340/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

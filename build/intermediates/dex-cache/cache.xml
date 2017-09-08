@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/f75706e84336c9b1ccec372a5fee7f4735819e3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8cc69c55aefb20af73bfefd23796b2f65ac41c8d">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/classes_b2a66422b7548396477aab4fc301288e7f3d9374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/7ede72b925b6f7357c26bc13e9faa6cc39179340/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/classes_8db927f0701089fea70c5653ebaede9ae0232db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/69c24794bbe72b6e7ae86b9242cfd13975b7fbcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af1fc401d18799adc0f9bf571f88eaa4617b1def">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/classes_63e30d980bc39da0eea932b3165e9bc44a1dca55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Development/Mapbox/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ad2b0c60cdce6364db8be7309aaa3177a11b533/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/gson-2.8.0_4a124d723740d93a02f02cc5f020a7df335774cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/okio-1.12.0_dd8f9fb333c62549312573f66649e3bc52ad1e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/959ecdfd75f96dfd5a18a0326424c73b6280ceca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/classes_eef189e753e88e8c5ddfd678253adf0495a61c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/7f2be183b6c911dbd426c6af547c3a21f31835b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/classes_3ed1141a281eaadc7277c92ef39e05fd2b017909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/3d5292aec652de0ecbd49eff1270fba38b7ed019/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/classes_f133d37176e2a20891d237209af6e56aa210fbeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/8d84c70d0b9882fdb037c29af526d30fe6fa2227/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/classes_bd2f2795dc4fb88789568415defc7790a0d20929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-geojson/2.1.3/d64d13427e68ecbd3a97a0c8cc5878f09f54e444/mapbox-java-geojson-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d64d13427e68ecbd3a97a0c8cc5878f09f54e444">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/mapbox-java-geojson-2.1.3_2b0f1cd5bef77318c933c1099ec909e55c6fa792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-core/2.1.3/834cbb0634e159b347ef2e55f473f2446ee56eba/mapbox-java-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="834cbb0634e159b347ef2e55f473f2446ee56eba">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/mapbox-java-core-2.1.3_521055c5ae7a747036ad3c14563edcf510ddf13f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Development/Mapbox/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a87d1dec4c0c28a8129e1a91f08916ccc91f09e7">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e08f430380dbcb59843f5944d782e8a6e9d3ef16/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/home/avik/Development/Mapbox/app/build/intermediates/pre-dexed/debug/okhttp-3.7.0_84106b049937bbb8a86e647322092505cd5371bc.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mapbox</string>
+    <string name="access_token">pk.eyJ1IjoibWFwZHZtIiwiYSI6ImNqNWRnN3p5ODBuMGwzMm82djljZHo1NnYifQ.XYzdCImnrSkj1ebnU6xvFg</string>
+    <string name="nightstyle">mapbox://styles/mapbox/traffic-night-v2</string>
+    <string name="satelitestyle">mapbox://styles/mapbox/satellite-streets-v10</string>
+    <string name="myMapstyle">mapbox://styles/mapdvm/cj5dve2y00t6u2rqlu2xcnndm</string>
+    <string name="access_token_my_map">pk.eyJ1IjoibWFwZHZtIiwiYSI6ImNqNWR4MjgxbzBtZG4zM29kZ25hZjRhODgifQ.8qtyNzvFyxtJRmtXgIQaMQ</string>
+    <string name="access_token_night_map">pk.eyJ1IjoibWFwZHZtIiwiYSI6ImNqNWRnN3p5ODBuMGwzMm82djljZHo1NnYifQ.XYzdCImnrSkj1ebnU6xvFg</string>
+    <string name="access_token_satelite_map">pk.eyJ1IjoibWFwZHZtIiwiYSI6ImNqNWRnN3p5ODBuMGwzMm82djljZHo1NnYifQ.XYzdCImnrSkj1ebnU6xvFg</string>
+    <string name="mymaptoken">pk.eyJ1IjoibWFwZHZtIiwiYSI6ImNqNWRnN3p5ODBuMGwzMm82djljZHo1NnYifQ.XYzdCImnrSkj1ebnU6xvFg</string>
+   <string name="mymap">mapbox://styles/mapdvm/cj5dve2y00t6u2rqlu2xcnndm</string>
+</resources>

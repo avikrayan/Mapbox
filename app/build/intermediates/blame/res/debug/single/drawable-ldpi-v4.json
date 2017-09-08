@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/avik/Development/Mapbox/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/mapbox_info_icon_default.png",
+        "source": "/home/avik/.android/build-cache/f75706e84336c9b1ccec372a5fee7f4735819e3a/output/res/drawable-ldpi-v4/mapbox_info_icon_default.png"
+    },
+    {
+        "merged": "/home/avik/Development/Mapbox/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/mapbox_info_icon_selected.png",
+        "source": "/home/avik/.android/build-cache/f75706e84336c9b1ccec372a5fee7f4735819e3a/output/res/drawable-ldpi-v4/mapbox_info_icon_selected.png"
+    }
+]
